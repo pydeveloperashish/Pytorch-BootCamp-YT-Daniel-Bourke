@@ -1,0 +1,6 @@
+demos
+models/*
+__pycache__
+runs
+pytorch-deep-learning-main
+Datasets/*.zip
